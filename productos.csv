@@ -1,0 +1,5 @@
+id,nombre,precio,stock,activo
+1,Tomate,2500.0,30,True
+2,Choclo,2725.0,23,True
+3,Salchicha_El_Chacha,1300.0,14,True
+4,Frutillas,2340.0,0,False
